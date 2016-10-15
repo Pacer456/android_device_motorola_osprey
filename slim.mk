@@ -16,7 +16,7 @@ $(call inherit-product, device/motorola/osprey/full_osprey.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := osprey
-PRODUCT_NAME := aosp_osprey
+PRODUCT_NAME := slim_osprey
 PRODUCT_BRAND := Motorola
 PRODUCT_MANUFACTURER := Motorola
 PRODUCT_RELEASE_NAME := osprey
